@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="grocery store, food, ingredients, trendy, meat, vegetables, fruits, snacks, pastry, soen287">
     <meta name="description" content="This is the backstore page where we can see who is registered on our website.">
-    <meta name="author" content="Mohammad Ali Zahir">
+    <meta name="author" content="Mohieddine Farid">
     <title>The Krusty Patty</title>
     <!-- (adding bootstrap CDN)-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">

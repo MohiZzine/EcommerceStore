@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="keywords" content="Grocery Store, list, backstore, products, edit ">
 <meta name="description" content="This is the Edit product option in the backstore">
-<meta name="author" content="Lea Lakkis">
+<meta name="author" content="Mohieddine Farid">
 <title>Backstore</title>
    <!-- (adding bootstrap CDN)-->
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">

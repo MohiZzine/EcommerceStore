@@ -9,7 +9,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="keywords" content="Grocery Store, list, backstore, products, edit ">
 <meta name="description" content="This is the Edit product option in the backstore">
-<meta name="author" content="Lea Lakkis">
+<meta name="author" content="Mohieddine Farid">
 <script type = "text/javascript"  src = "product_list.js" ></script>
 <script type="text/Javascript" src="validation.js"></script>
 <script type="text/Javascript" src="validationr.js"></script>

@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width" initial-scale="1">
         <meta name="keywords" content="grocery store, food, ingredients, trendy, meat, vegetables, fruits, snacks, pastry, soen287">
         <meta name="description" content="This is the login page for the grocery store Trendy Markt where we sell the trendiest ingredients.">
-        <meta name="author" content="Matthew Pan">
+        <meta name="author" content="Mohieddine Farid">
         <meta name="google-signin-client_id" content="289354389291-vhhpc27pnpu5o3rn7kf8h46bbpfudpje.apps.googleusercontent.com">
         <title>Trendy Markt Grocery Store</title>
     <!-- bootstrap + icon + css -->

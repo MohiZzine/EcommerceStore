@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="Grocery Store, list, backstore, products">
     <meta name="description" content="This is the All product page of the backstore">
-    <meta name="author" content="Lea Lakkis">
+    <meta name="author" content="Mohieddine Farid">
     <script type = "text/javascript"  src = "product_list.js" ></script>
     <title>Backstore</title>
    <!-- (adding bootstrap CDN)-->

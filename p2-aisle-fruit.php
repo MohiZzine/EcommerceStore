@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="grocery store, food, ingredients, trendy, meat, vegetables, fruits, snacks, pastry, soen287">
     <meta name="description" content="This is the fruit aisle page for the grocery store Trendy Markt where we sell the trendiest ingredients.">
-    <meta name="author" content="Ribelle El Ayoubi">
+    <meta name="author" content="Mohieddine Farid">
     <title>Trendy Markt Grocery Store</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
     <link href="main.css" rel="stylesheet" type="text/css">
