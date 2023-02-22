@@ -89,7 +89,7 @@
 <script type="text/javascript" src="CartScript.js">
 //txt = xmlDoc.getElementsByTagName("title")[0].childNodes[0].nodeValue;
 </script>
-<!--<?phpaddCartPage();?>-->
+<!--<?php addCartPage();?>-->
     <footer class="container py-5">
       <div class="row">
         <div class="col-12 col-md">
@@ -98,12 +98,10 @@
         <div class="col-6 col-md">
           <h5>Team</h5>
           <ul class="list-unstyled text-small">
-            <li><a class="text-muted">Matthew Pan</a></li>
-            <li><a class="text-muted">Ribelle El Ayoubi</a></li>
-            <li><a class="text-muted">Mohammad Ali Zahir</a></li>
-            <li><a class="text-muted">Maya McRae</a></li>
-            <li><a class="text-muted">Lea Lakkis</a></li>
-            <li><a class="text-muted">Mira Aji</a></li>
+            <li><a class="text-muted">Mohieddine Farid</a></li>
+            <li><a class="text-muted">Basma Arnaoui</a></li>
+            <li><a class="text-muted">Zakaria Choukri</a></li>
+            <li><a class="text-muted">Abderrahmane Baidoune</a></li>
           </ul>
         </div>
         <div class="col-6 col-md">
